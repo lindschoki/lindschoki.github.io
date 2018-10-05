@@ -1,0 +1,14 @@
+div {
+	font-family: Calibri;
+	font-size: 20px;
+	width: 150px; 
+	background-color: grey;
+	color: white;
+	text-align: center;
+	padding: 15px; 
+	border-radius: 8px;  
+}
+
+img {
+	width: 100%;
+}
